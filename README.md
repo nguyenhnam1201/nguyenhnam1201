@@ -3,6 +3,6 @@
 - 📫 How to reach me : hnam.business@gmail.com
 
 nguyenhnam1201/nguyenhnam1201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the link to take a look at your changes.
----> https://www.facebook.com/hnamxd <---
-`hnamdz`
+
+> hope you like it !
+`hnam dz` 
